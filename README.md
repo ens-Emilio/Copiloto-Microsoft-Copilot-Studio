@@ -43,4 +43,4 @@ Este repositório contém um resumo do aprendizado adquirido durante o desafio d
 
 ---
 
-Desafio realizado como parte da trilha de aprendizado da DIO.me.
+Desafio realizado como parte da trilha de aprendizado da [DIO.me](https://www.dio.me/).
